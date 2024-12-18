@@ -5,4 +5,4 @@ pytest
 pytest-cov
 pylint
 black
-nltk
+urllib3==1.26.6
