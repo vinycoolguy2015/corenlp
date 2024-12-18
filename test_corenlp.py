@@ -1,4 +1,6 @@
 from nlplogic.corenlp import get_phrases
+import nltk
+nltk.download('punkt')
 
 
 def test_get_phrase():
